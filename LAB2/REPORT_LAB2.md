@@ -2,7 +2,7 @@
 
 ### Course: Formal Languages & Finite Automata
 
-### Author: Student — Variant 17
+### Author: Daniel Nicorici — Variant 17
 
 ---
 
