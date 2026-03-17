@@ -69,5 +69,5 @@ The lexer correctly identifies identifiers, keywords, numeric literals (includin
 
 ## References
 
-1. A sample of a lexer implementation.
-2. Lexical analysis.
+1. LLVM Tutorial - My First Language Frontend. https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html
+2. Lexical analysis - Wikipedia. https://en.wikipedia.org/wiki/Lexical_analysis
